@@ -1,0 +1,9 @@
+in this homework i us regExp and (try catch finally) statements,  i write functions and regexps.I Solve all  problems, wich have  given me :))))
+
+try {
+//......
+} catch (){
+//......
+} finally {
+//.......
+}
